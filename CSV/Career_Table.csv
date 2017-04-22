@@ -1,0 +1,53 @@
+Career_ID,Person_ID,Position,Location,Date_Min,Date_Max
+C00001,P0001,Governor,Phoenicia,360,361
+C00002,P0001,Governor,Bithynia,365,366
+C00003,P0001,Vicar,Thrace,365,366
+C00004,P0002,Governor,Palestina Prima,360,361
+C00005,P0003,Governor,Syria,363,363
+C00006,P0005,Governor,Phrygia,359,360
+C00007,P0005,Governor,Galatia,361,362
+C00008,P0005,Comes Domorum,Cappadocia,363,365
+C00009,P0007,Governor,Armenia,361,361
+C00010,P0007,Governor,Galatia,362,364
+C00011,P0007,Prefect,Egypt,364,364
+C00012,P0028,Praetorian Prefect,Illyricum,357,360
+C00013,P0027,Governor,Palestine,351,352
+C00014,P0027,Vicar,Asia,353,354
+C00015,P0027,Urban Prefect,Constantinople,356,356
+C00016,P0027,Praetorian Prefect,,365,366
+C00017,P0010,Vicar,Pietas,358,358
+C00018,P0015,Governor,Euphratensis,362,363
+C00019,P0015,Governor,Macedonia,364,364
+C00020,P0074,Notary,Court,371,372
+C00021,P0072,Primicerius notariorum,Court,358,358
+C00022,P0022,Governor,Arabia,362,363
+C00023,P0036,Vicar,Asia,362,363
+C00024,P0036,Comes rei privatae,Court,363,364
+C00025,P0036,Urban Prefect,Constantinople,365,365
+C00026,P0047,Assessor,Euphratensis,359,359
+C00027,P0047,Governor,Macedonia,362,362
+C00028,P0018,Governor,Cilicia,362,362
+C00029,P0018,Governor,Syria,363,364
+C00030,P0018,Syriarch,Syria,364,364
+C00031,P0033,Vicar,Asia,363,366
+C00032,P0033,Proconsul,Asia,366,367
+C00033,P0033,Urban Prefect,Constantinople,372,373
+C00034,P0033,Urban Prefect,Constantinople,382,384
+C00035,P0033,Consul,,385,386
+C00036,P0011,Agens in rebus,,354,355
+C00037,P0011,Governor,Palestine,357,358
+C00038,P0038,Notary,Court,,
+C00039,P0038,Consul,,358,358
+C00040,P0038,Comes,Court,,
+C00041,P0075,Governor,Galatia,360,361
+C00042,P0076,Governor,Palestina Salutaris,361,362
+C00043,P0076,Governor,Pisidia,362,364
+C00044,P0077,Magister officiorum,Court,355,355
+C00045,P0077,Magister officiorum,Court,359,361
+C00046,P0023,Advocate/Assessor,Syria,357,361
+C00047,P0023,Governor,Phoenicia,362,363
+C00048,P0078,Notary,Court,,
+C00049,P0078,Praetorian Prefect,East,360,361
+C00050,P0079,,Court,355,355
+C00051,P0079,Comes rei privatae,Court,362,363
+C00052,P0079,Proconsul,Asia,364,364

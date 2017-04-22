@@ -1,0 +1,7 @@
+Type_ID,Name,Description
+T01,Recommendation,A letter that recommends an individual for a position in the administration.
+T02,School,A letter that deals with issues related to Libanius' school.
+T03,Personal,A letter whose purpose is to maintain his relationship with the recipient and/or discuss personal issues with him.
+T04,Favour,A letter whose purpose is to obtain a favour from the recipient.
+T05,Municipal,A letter that deals with issues related to the City Council and/or the Decurions.
+T06,Introduction/Reference,A letter that introduces an individual to another for another purpose than obtaining a position in the administration.

@@ -1,0 +1,81 @@
+Person_ID,Person_Name,Former_Student,Parent_of_Student,PLRE_ID,BLZG_ID
+P0000,Libanius,FALSE,FALSE,,
+P0001,Andronicus,TRUE,FALSE,Andronicus 3,Andronicus ii
+P0002,Hypatius,TRUE,,Hypatius 1,Hypatius i
+P0003,Alexander,FALSE,FALSE,Alexander 5,Alexander ii
+P0004,Marcellinus,,,,
+P0005,Acacius,FALSE,TRUE,Acacius 8,Acacius i
+P0006,Philippus,,,Philippus 3,
+P0007,Maximus,FALSE,,Maximus 19,Maximus vi
+P0008,Castricius,,,,Castricius ii
+P0009,Alcimus,,,,
+P0010,Aristaenetus,FALSE,FALSE,Aristaenetus 1,Aristaenetus i
+P0011,Clematius,FALSE,FALSE,Clematius 2,Clematius ii
+P0012,Parnasius,,,Parnasius 1,
+P0013,Eumolpius,,,,
+P0014,Pannychius,,,,
+P0015,Artabius,FALSE,FALSE,,
+P0016,Ammianus,,,Ammianus 3,
+P0017,Priscianus,,,Priscianus 1,
+P0018,Celsus,FALSE,FALSE,Celsus 3,Celsus i
+P0019,Acacius,FALSE,,Acacius 7,
+P0020,Gerontius,,,Gerontius 2,
+P0021,Seleucus,,,Seleucus 1,
+P0022,Belaeus,FALSE,FALSE,,
+P0023,Gaianus,FALSE,FALSE,Gaianus 6,
+P0024,Marius,,,Marius 1,
+P0025,Hierus,,,Hierus 4,
+P0026,Ulpianus,,,Ulpianus 3,
+P0027,Araxius,FALSE,FALSE,,
+P0028,Anatolius,FALSE,FALSE,Anatolius 3,Anatolius i
+P0029,Honoratus,,,Honoratus 2,
+P0030,Modestus,,,Domitius Modestus 2,
+P0031,Nicocles,,,,
+P0032,Italicianus,,,,
+P0033,Clearchus,FALSE,FALSE,Clearchus 1,Clearchus i
+P0034,Theodorus,,,Theodorus 11,
+P0035,Themistius,,,Themistius 1,
+P0036,Caesarius,FALSE,FALSE,Caesarius 1,Caesarius iv
+P0037,Jovinus,,,Jovinus 1,
+P0038,Datianus,FALSE,FALSE,Datianus 1,
+P0039,Majorinus,,,,
+P0040,Auxentius,,,,Auxentius v
+P0041,Bassus,,,,Bassus ii
+P0042,Themistius,,,Themistius 2,
+P0043,Encratius,,,,
+P0044,Eusebius,,,Eusebius 40,
+P0045,Parthenius,,,,
+P0046,Sabinus,,,Sabinus 5,
+P0047,Calliopius,FALSE,FALSE,Calliopius 2,Calliopius i
+P0048,Boethus,,,,
+P0049,Beros,,,,
+P0050,Apringius,,,,
+P0051,Chrysogonus,,,,
+P0052,Malchus,,,,
+P0053,Gymnasius,,,,
+P0054,Spectatus,,,Spectatus 1,
+P0055,Apolinarius,,,Apolinarius 1,
+P0056,Sarapodorus,,,,
+P0057,Pelagius,,,Pelagius 1,
+P0058,Martiales,,,,
+P0059,Strategius,,,,
+P0060,Eusebius and Agroecius,,,,Eusebius xi and Agroecius i
+P0061,Hyperechius,,,,
+P0062,Julianus,,,Julianus 14,
+P0063,Faustinus,,,,
+P0064,Julianus,,,Julianus 15,Julianus vii
+P0065,Miccalus,,,,
+P0066,Polycarp,,,,
+P0067,Dius,,,,
+P0068,Philippus,,,Fl. Philippus 7,
+P0069,Quirinus,FALSE,,,
+P0070,Honoratus,TRUE,,Honoratus 3,
+P0071,Calliopius,TRUE,FALSE,,Calliopius iii
+P0072,Bassus,FALSE,TRUE,Bassus 5,Bassus i
+P0073,Marcellus,FALSE,,,
+P0074,Bassianus,TRUE,TRUE,Bassianus 2,
+P0075,Ecdicius,FALSE,TRUE,,
+P0076,Entrechius,FALSE,FALSE,Entrechius 1,
+P0077,Florentius,FALSE,FALSE,Florentius 3,Florentius ii
+P0078,Helpidius,FALSE,FALSE,Helpidius 4,Helpidius i
+P0079,Helpidius,FALSE,FALSE,Helpidius 6,Helpidius ii
